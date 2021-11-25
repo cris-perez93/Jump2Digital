@@ -38,7 +38,7 @@ Validaciones basadas en regex para el manejo de errores y validaciones para los 
 El uso de axios para la consulta de la API optimiza y facilita en este caso el consumo del servicio web.
 
 ## Estructura de carpetas
-![](images/Carpetas-Proyecto.jpg)
+![](/src/images/Carpetas-Proyecto.jpg)
 
 ## Installation
 
