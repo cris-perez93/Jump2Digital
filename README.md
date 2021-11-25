@@ -32,9 +32,9 @@ Consumo de API (Paises) 📃 https://countriesnow.space/
 
 ## Arquitectura 
 
-He decidido trabajar con React-Hooks para tener mejor fluidez a la hora de trabajar con los estados.
-He implementado un Custom-Hook para el formulario y asi poder reutilizarlo en otros futuros componentes,consiguiendo asi una mejora en la escalabilidad.
-Validaciones basadas en regex para el manejo de errores y validaciones para los diferentes campos.
+He decidido trabajar con React-Hooks para tener mejor fluidez a la hora de trabajar con los estados.<br>
+He implementado un Custom-Hook para el formulario y asi poder reutilizarlo en otros futuros componentes,consiguiendo asi una mejora en la escalabilidad.<br>
+Validaciones basadas en regex para el manejo de errores y validaciones para los diferentes campos.<br>
 El uso de axios para la consulta de la API optimiza y facilita en este caso el consumo del servicio web.
 
 ## Installation
