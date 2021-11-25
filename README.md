@@ -20,9 +20,10 @@ En esta ocasión se nos pide maquetar y administrar los errores de un formulario
 
 
 ## Tecnologias
-👌  React -Create-React-App
-🎨 Styled Components
-🔎 Axios
+👌  React -Create-React-App<br>
+🎨 Styled Components<br>
+🎨 Material-Ui<br>
+🔎 Axios<br>
 😍 Sweet Alert2
 
 ## API/Component
@@ -32,13 +33,18 @@ Consumo de API (Paises) 📃 https://countriesnow.space/
 ## Arquitectura 
 
 He decidido trabajar con React-Hooks para tener mejor fluidez a la hora de trabajar con los estados.
-He implementado un Custum-Hook con validaciones basadas en regex para el manejo de errores y validaciones para los diferentes campos, consiguiendo asi una mejora en la escalabilidad.
+He implementado un Custom-Hook para el formulario y asi poder reutilizarlo en otros futuros componentes,consiguiendo asi una mejora en la escalabilidad.
+Validaciones basadas en regex para el manejo de errores y validaciones para los diferentes campos.
 El uso de axios para la consulta de la API optimiza y facilita en este caso el consumo del servicio web.
 
 ## Installation
 
-npm install # Instalación de todas las dependencias del proyecto
+npm install # Instalación de todas las dependencias del proyecto<br>
 npm start  #  Ejecuta el proyecto en local.
+
+## Demo
+https://cris-perez93.github.io/Jump2Digital/
+
 
 
 
