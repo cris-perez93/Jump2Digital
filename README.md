@@ -40,6 +40,14 @@ El uso de axios para la consulta de la API optimiza y facilita en este caso el c
 ## Estructura de carpetas
 ![](/src/images/Carpetas-Proyecto.jpg)
 
+He dividido el proyecto en 5 carpetas.
+Components/ nuestros componentes principales,donde podemos encontrar el formulario y la vista objeto.
+Hooks/ Desarrollo del custom-hook para el formulario.
+Images/ jpg y png del proyecto.
+ui / Carpeta donde se encuentran los estilos.
+Validationrules/ Validaciones para el formulario basadas en regex.
+
+
 ## Installation
 
 npm install # Instalación de todas las dependencias del proyecto<br>
