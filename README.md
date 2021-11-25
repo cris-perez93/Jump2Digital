@@ -30,12 +30,15 @@ En esta ocasión se nos pide maquetar y administrar los errores de un formulario
 
 Consumo de API (Paises) 📃 https://countriesnow.space/
 
-## Arquitectura 
+## Arquitectura
 
 He decidido trabajar con React-Hooks para tener mejor fluidez a la hora de trabajar con los estados.<br>
 He implementado un Custom-Hook para el formulario y asi poder reutilizarlo en otros futuros componentes,consiguiendo asi una mejora en la escalabilidad.<br>
 Validaciones basadas en regex para el manejo de errores y validaciones para los diferentes campos.<br>
 El uso de axios para la consulta de la API optimiza y facilita en este caso el consumo del servicio web.
+
+## Estructura de carpetas
+![alt text](http://url/to/img.png)
 
 ## Installation
 
