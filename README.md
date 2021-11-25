@@ -41,11 +41,11 @@ El uso de axios para la consulta de la API optimiza y facilita en este caso el c
 ![](/src/images/Carpetas-Proyecto.jpg)
 
 He dividido el proyecto en 5 carpetas.<br>
-Components/ nuestros componentes principales,donde podemos encontrar el formulario y la vista objeto.<br>
-Hooks/ Desarrollo del custom-hook para el formulario.<br>
-Images/ jpg y png del proyecto.<br>
-ui / Carpeta donde se encuentran los estilos.<br>
-Validationrules/ Validaciones para el formulario basadas en regex.
+**Components**/ nuestros componentes principales,donde podemos encontrar el formulario y la vista objeto.<br>
+**Hooks**/ Desarrollo del custom-hook para el formulario.<br>
+**Images**/ jpg y png del proyecto.<br>
+**ui** / Carpeta donde se encuentran los estilos.<br>
+**Validationrules**/ Validaciones para el formulario basadas en regex.
 
 
 ## Installation
